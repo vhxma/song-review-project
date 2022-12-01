@@ -1,2 +1,4 @@
-# song-review-project
- Get a list of song reviews from friends. Use Azure Sentiment Analysis to figure out if your friends really like your song taste or not
+# Song Review Project
+ Get a list of song reviews from friends. Use Azure Sentiment Analysis to figure out whose song taste is supreme
+ 
+
